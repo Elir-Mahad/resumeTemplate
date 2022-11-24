@@ -28,23 +28,31 @@
 
 To use this template:
 
-1. Open up this codesandbox link.
+1. Open up this codesandbox link; it contains the code base for this project: https://codesandbox.io/s/exciting-fire-byqies
 
-2. Clone the repository into your own codesandbox.
+2. Clone the repository into your own codesandbox; you can do this by ctlr + s or manually.
 
-3. Follow the guide below that provides links on how to change template data.
+3. The codesandbox will give you a url where your site is hosted; open that up in another browser tab.
 
-4. Make your changes and save.
+![](./assets//Open%20website%20new%20tab%201.png)
 
-5. Download the updated web page as a pdf.
+![](./assets//Open%20website%20new%20tab%202.png)
 
-   - open the web page in the safari browser and download it as a pdf
+4. In the codesandbox code base, follow the guide below that provides on how to change template data.
+
+5. Make your changes and save.
+
+6. Download the updated web page as a pdf.
+
+   - open the website url in the safari browser and download it as a pdf
 
    - use some other method.
 
-# To change the template data:
+# How to change the template data:
 
 The folder **src** has a folder called **data**.
+
+![](./assets/Open%20data.png)
 
 If you comment out something in the data files, it will dissapear from the website !
 
