@@ -52,11 +52,19 @@ To use this template:
 
 The folder **src** has a folder called **data**.
 
+Open the **data** folder.
+
 ![](./assets/Open%20data.png)
 
-If you comment out something in the data files, it will dissapear from the website !
+![](./assets/data%20folder.png)
 
-Open the **data** folder.
+- If you comment out something in the data files, it will dissapear from the website !
+
+- If you uncomment it, it will ofcourse be reappear. Play around.
+
+- Whenever you make a change to the data and save, referesh the resume website to see the changes.
+
+---
 
 You can update contacts info in the **contactData.js** file
 
