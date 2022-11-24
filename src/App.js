@@ -1,12 +1,12 @@
 import { Component } from "react";
 import "./App.css";
-import ExportPdfComponent from "./components/ExportPdfComponent";
+import Resume from "./components/Resume/Resume";
 
 class App extends Component {
   render() {
     return (
       <div className="App container">
-        <ExportPdfComponent />
+        <Resume />
       </div>
     );
   }
